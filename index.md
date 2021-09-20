@@ -7,6 +7,7 @@
   <h1> Hey, I'm Christine Tzeng </h1>
   <p>I am a PhD student at North Carolina State University, under the advisement of Dr. Munindar P. Singh. My research interests lie in explainable AI and believable agents.</p>
 
+  <h2> Education </h2>
   <table>
     <tr>
       <td>2018/08 – Present</td>
@@ -24,6 +25,18 @@
       <td>Bachelor of Science in Computer Science</td>
     </tr>
   </table>
+  
+  <h2> Projects </h2>
+  <ul>
+    <li>Noe</li>
+    <li>Hermione</li>
+    <li>PhD proposal</li>
+  </ul>
+  
+  <h2> Awards </h2>
+  <ul>
+    <li>Honorable Mention Prize on GE Health Cloud Innovation Challenge</li>
+  </ul>
   
 </body>
 
