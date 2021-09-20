@@ -14,11 +14,11 @@
   
   <h2> Committee </h2>
   <ul>
-    <li>Chair: Dr. Munindar P. Singh</li>
-    <li>Member: Dr. Arnav Jhala</li>
-    <li>Member: Dr. Min Chi</li>
-    <li>Member: Dr. William Rand (GSR)</li>
-    <li>External Member: Dr. Nirav Ajmeri</li>
+    <li>Chair: <a href="https://www.csc2.ncsu.edu/faculty/mpsingh/">Dr. Munindar P. Singh</a></li>
+    <li>Member: <a href="https://facultyclusters.ncsu.edu/people/ahjhala/">Dr. Arnav Jhala</a></li>
+    <li>Member: <a href="https://www.csc.ncsu.edu/people/mchi">Dr. Min Chi</a></li>
+    <li>Member: <a href="https://poole.ncsu.edu/people/wmrand/">Dr. William Rand (GSR)</a></li>
+    <li>External Member: <a href="https://niravajmeri.github.io/">Dr. Nirav Ajmeri</a></li>
   </ul>
   
 </body>
