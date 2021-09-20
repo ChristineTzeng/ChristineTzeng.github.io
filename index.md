@@ -5,8 +5,10 @@
 
 <body>
   <h1> Hey, I'm Christine Tzeng </h1>
+  <blockquote>
   <p>I am a PhD student at North Carolina State University, under the advisement of Dr. Munindar P. Singh. My research interests lie in explainable AI and believable agents.</p>
-
+  </blockquote>
+  
   <h2> Education </h2>
   <table>
     <tr>
@@ -30,7 +32,7 @@
   <ul>
     <li>Noe</li>
     <li>Hermione</li>
-    <li>PhD proposal</li>
+    <li><a href="./proposal.md">PhD proposal</a></li>
   </ul>
   
   <h2> Awards </h2>
