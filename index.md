@@ -32,7 +32,7 @@
   <ul>
     <li>Noe</li>
     <li>Hermione</li>
-    <li><a href="./proposal.html">PhD proposal</a></li>
+    <li><a href="proposal.html">PhD proposal</a></li>
   </ul>
   
   <h2> Awards </h2>
