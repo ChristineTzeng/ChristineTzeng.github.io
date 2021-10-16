@@ -32,7 +32,7 @@
   <ul>
     <li>Noe</li>
     <li>Hermione</li>
-    <li><a href="proposal.html">PhD dissertation proposal</a></li>
+    <li><a href="oral_prelim.html">PhD dissertation proposal</a></li>
   </ul>
   
   <h2> Awards </h2>
