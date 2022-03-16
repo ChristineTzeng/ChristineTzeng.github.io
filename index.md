@@ -35,6 +35,16 @@
     <li><a href="oral_prelim.html">PhD dissertation proposal</a></li>
   </ul>
   
+  <h2> Publications </h2>
+  <ul>
+    <li>Sz-Ting Tzeng, Nirav Ajmeri, and Munindar P. Singh. Noe: Norm Emergence and Robustness Based on Emotions in Multiagent Systems. Proceedings of the International Workshop on Coordination, Organizations, Institutions, Norms, and Ethics for Governance of Multi-Agent Systems (COINE), London, May 2021, pages 1--17.</li>
+  </ul>
+  
+  <h2> Presentations </h2>
+  <ul>
+    <li>Sz-Ting Tzeng, Nirav Ajmeri, and Munindar P. Singh. Noe: Norm Emergence and Robustness Based on Emotions in Multiagent Systems. International Workshop on Coordination, Organizations, Institutions, Norms and Ethics for Governance of Multi-Agent Systems (COINE). Online.</li>
+  </ul>
+  
   <h2> Awards </h2>
   <ul>
     <li>Honorable Mention Prize on GE Health Cloud Innovation Challenge</li>
