@@ -6,7 +6,7 @@
 <body>
   <h1> Hey, I'm Christine Tzeng </h1>
   <blockquote>
-  <p>I am a PhD student at North Carolina State University, under the advisement of Dr. Munindar P. Singh. My research interests lie in explainable AI and believable agents.</p>
+  <p>I am a Ph.D. Candidate at North Carolina State University, under the advisement of Dr. Munindar P. Singh. My research interests lie in explainable AI, believable agents, and incorporating human factors into AI.</p>
   </blockquote>
   
   <h2> Education </h2>
@@ -44,6 +44,8 @@
   
   <h2> Presentations </h2>
   <ul>
+    <li>Sz-Ting Tzeng, Nirav Ajmeri, and Munindar P. Singh. Fleur: Social Values Orientation for Robust Norm Emergence. International Workshop on Coordination, Organizations, Institutions, Norms and Ethics for Governance of Multi-Agent Systems (COINE). Online.</li>
+    <li>Sz-Ting Tzeng. Engineering Normative and Cognitive Agents with Emotions and Values. Proceedings of the 21th International Conference on Autonomous Agents and Multiagent Systems (AAMAS), Doctoral Consortium. Online.</li>
     <li>Sz-Ting Tzeng, Nirav Ajmeri, and Munindar P. Singh. Noe: Norm Emergence and Robustness Based on Emotions in Multiagent Systems. International Workshop on Coordination, Organizations, Institutions, Norms and Ethics for Governance of Multi-Agent Systems (COINE). Online.</li>
   </ul>
   
