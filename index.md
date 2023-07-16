@@ -6,7 +6,7 @@
 <body>
   <h1> Hey, I'm Christine Tzeng </h1>
   <blockquote>
-  <p>I am a Ph.D. Candidate at North Carolina State University, under the advisement of Dr. Munindar P. Singh. My research interests lie in explainable AI, believable agents, and incorporating human factors into AI.</p>
+  <p>I am a Ph.D. Candidate at North Carolina State University, under the advisement of Dr. Munindar P. Singh. My research interests lie in human-centric AI and believable agents.</p>
   </blockquote>
   
   <h2> Education </h2>
@@ -32,14 +32,17 @@
   <ul>
     <li>Noe</li>
     <li>Hermione</li>
-    <li><a href="oral_prelim.html">PhD dissertation proposal</a></li>
+    <li>Fleur</li>
+    <li>Exanna</li>
+<!--     <li><a href="oral_prelim.html">PhD dissertation proposal</a></li> -->
+    <li><a href="phd_defense.html">PhD Defense</a></li>
   </ul>
   
   <h2> Publications </h2>
   <ul>
-    <li>Sz-Ting Tzeng, Nirav Ajmeri, and Munindar P. Singh. Fleur: Social Values Orientation for Robust Norm Emergence. Proceedings of the International Workshop on Coordination, Organizations, Institutions, Norms, and Ethics for Governance of Multi-Agent Systems (COINE), Auckland, May 2022, pages 1--17.</li>
-    <li>Sz-Ting Tzeng. Engineering Normative and Cognitive Agents with Emotions and Values. Proceedings of the 21th International Conference on Autonomous Agents and Multiagent Systems (AAMAS), Doctoral Consortium, Auckland, May 2022, pages 1--3.</li>
-    <li>Sz-Ting Tzeng, Nirav Ajmeri, and Munindar P. Singh. Noe: Norm Emergence and Robustness Based on Emotions in Multiagent Systems. Proceedings of the International Workshop on Coordination, Organizations, Institutions, Norms, and Ethics for Governance of Multi-Agent Systems (COINE), London, May 2021, pages 1--17.</li>
+    <li>Sz-Ting Tzeng, Nirav Ajmeri, and Munindar P. Singh. Fleur: Social Values Orientation for Robust Norm Emergence. Proceedings of the International Workshop on Coordination, Organizations, Institutions, Norms, and Ethics for Governance of Multi-Agent Systems (COINE), Auckland, May 2022, pages 185--200.</li>
+    <li>Sz-Ting Tzeng. Engineering Normative and Cognitive Agents with Emotions and Values. Proceedings of the 21th International Conference on Autonomous Agents and Multiagent Systems (AAMAS), Doctoral Consortium, Auckland, May 2022, pages 1878--1880.</li>
+    <li>Sz-Ting Tzeng, Nirav Ajmeri, and Munindar P. Singh. Noe: Norm Emergence and Robustness Based on Emotions in Multiagent Systems. Proceedings of the International Workshop on Coordination, Organizations, Institutions, Norms, and Ethics for Governance of Multi-Agent Systems (COINE), London, May 2021, pages 62--77.</li>
   </ul>
   
   <h2> Presentations </h2>
@@ -47,11 +50,6 @@
     <li>Sz-Ting Tzeng, Nirav Ajmeri, and Munindar P. Singh. Fleur: Social Values Orientation for Robust Norm Emergence. International Workshop on Coordination, Organizations, Institutions, Norms and Ethics for Governance of Multi-Agent Systems (COINE). Online.</li>
     <li>Sz-Ting Tzeng. Engineering Normative and Cognitive Agents with Emotions and Values. Proceedings of the 21th International Conference on Autonomous Agents and Multiagent Systems (AAMAS), Doctoral Consortium. Online.</li>
     <li>Sz-Ting Tzeng, Nirav Ajmeri, and Munindar P. Singh. Noe: Norm Emergence and Robustness Based on Emotions in Multiagent Systems. International Workshop on Coordination, Organizations, Institutions, Norms and Ethics for Governance of Multi-Agent Systems (COINE). Online.</li>
-  </ul>
-  
-  <h2> Awards </h2>
-  <ul>
-    <li>Honorable Mention Prize on GE Health Cloud Innovation Challenge</li>
   </ul>
   
 </body>
