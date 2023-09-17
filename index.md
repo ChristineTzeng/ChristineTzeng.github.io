@@ -12,7 +12,7 @@
   <h2> Education </h2>
   <table>
     <tr>
-      <td>2018/08 – Present</td>
+      <td>2018/08 – 2023/08</td>
       <td>North Carolina State University, Raleigh, NC, USA</td>
       <td>PhD in Computer Science</td>
     </tr>
