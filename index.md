@@ -51,6 +51,11 @@
     <li>Sz-Ting Tzeng. Engineering Normative and Cognitive Agents with Emotions and Values. Proceedings of the 21th International Conference on Autonomous Agents and Multiagent Systems (AAMAS), Doctoral Consortium. Online.</li>
     <li>Sz-Ting Tzeng, Nirav Ajmeri, and Munindar P. Singh. Noe: Norm Emergence and Robustness Based on Emotions in Multiagent Systems. International Workshop on Coordination, Organizations, Institutions, Norms and Ethics for Governance of Multi-Agent Systems (COINE). Online.</li>
   </ul>
+
+  <h2> Honors and Awards </h2>
+  <ul>
+    <li>CoE Summer Graduate Fellowship</li>
+  </ul>
   
 </body>
 
