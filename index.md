@@ -6,7 +6,7 @@
 <body>
   <h1> Hey, I'm Christine Tzeng </h1>
   <blockquote>
-  <p>I am a Ph.D. Candidate at North Carolina State University, under the advisement of Dr. Munindar P. Singh. My research interests lie in human-centric AI and believable agents.</p>
+  <p>I am a Ph.D. at North Carolina State University, under the advisement of Dr. Munindar P. Singh. My research interests lie in human-centric AI and believable agents.</p>
   </blockquote>
   
   <h2> Education </h2>
