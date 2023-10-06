@@ -56,6 +56,12 @@
   <ul>
     <li>CoE Summer Graduate Fellowship</li>
   </ul>
+
+  <h2> Service </h2>
+  <ul>
+    <li><b>Program Committee.</b> AAMAS 2024</li>
+    <li><b>Journal Reviewer.</b> Scientific Reports</li>
+  </ul>
   
 </body>
 
