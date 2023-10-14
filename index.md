@@ -6,9 +6,9 @@
 <body>
   <h1> Hey, I'm Christine Tzeng </h1>
   <blockquote>
-  <p>I am a Ph.D. at North Carolina State University, under the advisement of Dr. Munindar P. Singh. Throughout my doctoral studies, I served as a research assistant with partial funding from the NSF at the Social AI Lab.
+  <p>I am a Ph.D. at North Carolina State University, under the advisement of Dr. Munindar P. Singh. Throughout my doctoral studies, I served as a research assistant with partial funding from the NSF at the Social AI Lab.</p>
     
-    My research interests lie in AI, multiagent systems, human-centered AI, reinforcement learning, and machine learning. Precisely, my research has focused on building human-centered AI to accommodate humans in the loop, reason over human factors, and adapt to changes.</p>
+    <p>My research interests lie in AI, multiagent systems, human-centered AI, reinforcement learning, and machine learning. Precisely, my research has focused on building human-centered AI to accommodate humans in the loop, reason over human factors, and adapt to changes.</p>
   </blockquote>
   
   <h2> Education </h2>
