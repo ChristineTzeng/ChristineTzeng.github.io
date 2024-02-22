@@ -60,7 +60,8 @@
 
   <h2> Service </h2>
   <ul>
-    <li><b>Program Committee.</b> AAMAS 2024</li>
+    <li><b>Program Committee.</b> AAMAS 2024, ECAI 2024</li>
+    <li><b>External Reviewer.</b> CogSci 2024</li>
     <li><b>Journal Reviewer.</b> Scientific Reports</li>
   </ul>
   
