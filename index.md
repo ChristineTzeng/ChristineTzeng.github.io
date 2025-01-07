@@ -1,72 +1,138 @@
 <html>
 <head>
-  <title>Christine Tzeng -at- UMU</title>
+  <title>Christine Tzeng</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+  <link rel="stylesheet" href="assets/css/main.css" />
+  <noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+
+  <!-- our project just needs Font Awesome Solid + Brands -->
+  <link href="assets/fontawesome/css/fontawesome.css" rel="stylesheet" />
+  <link href="assets/fontawesome/css/brands.css" rel="stylesheet" />
+  <link href="assets/fontawesome/css/solid.css" rel="stylesheet" />
 </head>
 
-<body>
-  <h1> Hey, I'm Christine Tzeng </h1>
-  <blockquote>
-  <p>I am a postdoctoral fellow at Umeå University (UMU), under the supervision of Professor Frank Dignum.</p>
-    <p>My research interests lie in AI, multiagent systems, human-centered AI, and reinforcement learning. Precisely, my research has focused on building human-centered AI to accommodate humans in the loop, reason over human factors, and adapt to changes.</p>
-  </blockquote>
-  
-  <h2> Education </h2>
-  <table>
-    <tr>
-      <td>2018/08 – 2023/08</td>
-      <td>North Carolina State University, Raleigh, NC, USA</td>
-      <td>PhD in Computer Science</td>
-    </tr>
-    <tr>
-      <td>2016/08 – 2018/05</td>
-      <td>North Carolina State University, Raleigh, NC, USA</td>
-      <td>Master of Science in Computer Science</td>
-    </tr>
-    <tr>
-      <td>2006/09 – 2010/06</td>
-      <td>National University of Tainan, Taiwan</td>
-      <td>Bachelor of Science in Computer Science</td>
-    </tr>
-  </table>
-  
-  <h2> Projects </h2>
-  <ul>
-    <li>Noe</li>
-    <li>Hermione</li>
-    <li>Fleur</li>
-    <li>Exanna</li>
-<!--     <li><a href="oral_prelim.html">PhD dissertation proposal</a></li> -->
-    <li><a href="phd_defense.html">PhD Defense</a></li>
-  </ul>
-  
-  <h2> Publications </h2>
-  <ul>
-    <li>[C2] Sz-Ting Tzeng, Nirav Ajmeri, and Munindar P. Singh. Norm Enforcement with a Soft Touch: Faster Emergence, Happier Agents. Proceedings of the 23rd International Conference on Autonomous Agents and Multiagent Systems (AAMAS), Auckland, May 2024, pages 1837--1846.</li>
-    <li>[W2] Sz-Ting Tzeng, Nirav Ajmeri, and Munindar P. Singh. Fleur: Social Values Orientation for Robust Norm Emergence. Proceedings of the International Workshop on Coordination, Organizations, Institutions, Norms, and Ethics for Governance of Multi-Agent Systems (COINE), Auckland, May 2022, pages 185--200.</li>
-    <li>[C1] Sz-Ting Tzeng. Engineering Normative and Cognitive Agents with Emotions and Values. Proceedings of the 21th International Conference on Autonomous Agents and Multiagent Systems (AAMAS), Doctoral Consortium, Auckland, May 2022, pages 1878--1880.</li>
-    <li>[W1] Sz-Ting Tzeng, Nirav Ajmeri, and Munindar P. Singh. Noe: Norm Emergence and Robustness Based on Emotions in Multiagent Systems. Proceedings of the International Workshop on Coordination, Organizations, Institutions, Norms, and Ethics for Governance of Multi-Agent Systems (COINE), London, May 2021, pages 62--77.</li>
-  </ul>
-  
-  <h2> Presentations </h2>
-  <ul>
-    <li>Sz-Ting Tzeng, Nirav Ajmeri, and Munindar P. Singh. Norm Enforcement with a Soft Touch: Faster Emergence, Happier Agents. Proceedings of the 23rd International Conference on Autonomous Agents and Multiagent Systems (AAMAS), Auckland, May 2024.</li>
-    <li>Sz-Ting Tzeng, Nirav Ajmeri, and Munindar P. Singh. Fleur: Social Values Orientation for Robust Norm Emergence. International Workshop on Coordination, Organizations, Institutions, Norms and Ethics for Governance of Multi-Agent Systems (COINE). Online.</li>
-    <li>Sz-Ting Tzeng. Engineering Normative and Cognitive Agents with Emotions and Values. Proceedings of the 21th International Conference on Autonomous Agents and Multiagent Systems (AAMAS), Doctoral Consortium. Online.</li>
-    <li>Sz-Ting Tzeng, Nirav Ajmeri, and Munindar P. Singh. Noe: Norm Emergence and Robustness Based on Emotions in Multiagent Systems. International Workshop on Coordination, Organizations, Institutions, Norms and Ethics for Governance of Multi-Agent Systems (COINE). Online.</li>
-  </ul>
+<body class="homepage is-preload">
+  <div id="page-wrapper">
 
-  <h2> Honors and Awards </h2>
-  <ul>
-    <li>CoE Summer Graduate Fellowship</li>
-  </ul>
+    <!-- Header -->
+    <div id="header">
 
-  <h2> Professional Service </h2>
-  <ul>
-    <li><b>Program Committee.</b> AAMAS 2024, ECAI 2024 (Main conference and Demo papers)</li>
-    <li><b>External Reviewer.</b> CogSci 2024</li>
-    <li><b>Journal Reviewer.</b> Scientific Reports</li>
-  </ul>
-  
-</body>
+      <!-- Inner -->
+      <div class="inner">
+        <header>
+          <h1>Sz-Ting (Christine) Tzeng</h1>
+          <hr />
+          <p>Postdoctoral Fellow, Department of Computing Science, Umeå University</p>
+        </header>
+        <footer>
+          <a href="#main" class="button scrolly">Learn More</a>
+        </footer>
+      </div>
+
+      <!-- Nav -->
+      <nav id="nav">
+        <ul>
+          <li><a href="index.md">About</a></li>
+          <li>
+            <a href="publication.html">Publication</a>
+            <ul>
+              <li><a href="publication.html#conference">Conference/Workshop</a></li>
+              <li><a href="publication.html#dissertation">Dissertation</a></li>
+            </ul>
+          </li>
+          <li><a href="experience.html">Experience</a></li>
+          <li><a href="projects.html">Projects</a></li>
+        </ul>
+      </nav>
+    </div>
+
+    <!-- Main -->
+    <div class="wrapper style2">
+    <div id="main" class="container">
+      <div class="row">
+        <div class="col-12 col-12-mobile">
+          <section id="intro" class="box">
+            <p>
+              I am a postdoctoral fellow in the Socially Aware AI group within the Department of Computing Science at Umeå University, working under the supervision of Professor Frank Dignum.
+            </p>
+            <p>
+              My research interests lie in human-centered AI, multiagent systems, and reinforcement learning. Precisely, my research has focused on building human-centered AI to accommodate humans in the loop, reason over human factors, and adapt to changes.
+              <br/>
+              In 2023, I earned a Ph.D. in Computer Science from North Carolina State University, focusing my dissertation on Artificial Intelligence and Computational Social Science, specifically in multiagent systems.
+            </p>
+          </section>
+
+          <section id="education" class="box">
+            <h3>Education</h3>
+            <p>
+              <b>Doctor of Philosophy</b> in Computer Science
+              <br/>
+              North Carolina State University
+              <br/>
+              <b>Advisor:</b> <a href="https://www.csc2.ncsu.edu/faculty/mpsingh/">Professor Munindar P. Singh</a>
+            </p>
+            <p>
+              <b>Master of Science</b> in Computer Science
+              <br/>
+              North Carolina State University
+              <br/>
+              <b>Advisor:</b> <a href="https://www.csc.ncsu.edu/people/AHJHALA">Professor Arnav Jhala</a>
+            </p>
+            <p>
+              <b>Bachelor of Science</b> in Computer Science and Information Engineering
+              <br/>
+              National University of Tainan
+            </p>
+          </section>
+        </div>
+      </div>
+
+    </div>
+    </div>
+
+    <!-- Footer -->
+    <div id="footer">
+      <div class="container">
+        <div class="row">
+          <div class="col-12">
+
+            <!-- Contact -->
+            <section class="contact">
+              <ul class="icons">
+                <li><a href="mailto:stzeng@cs.umu.se" class="fa-solid fa-envelope"><span class="label"></span></a></li>
+                <li><a href="https://x.com/chris_tzeng?s=11&t=kB6WtKLTuMbyMXFcll5Q9g" class="fa-brands fa-twitter"><span class="label"></span></a></li>
+                <li><a href="http://github.com/ChristineTzeng" class="fa-brands fa-github"><span class="label"></span></a></li>
+                <li><a href="https://scholar.google.com/citations?user=ZoyKE4YAAAAJ" class="fa-brands fa-google-scholar"><span class="label"></span></a></li>
+                <li><a href="http://linkedin.com/in/sz-ting-christine-tzeng-80464356" class="fa-brands fa-linkedin-in"><span class="label"></span></a></li>
+              </ul>
+            </section>
+
+            <!-- Copyright -->
+            <div class="copyright">
+              <ul class="menu">
+                <li>&copy; Christine Tzeng. All rights reserved.</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+              </ul>
+            </div>
+
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- Scripts -->
+    <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/jquery.dropotron.min.js"></script>
+    <script src="assets/js/jquery.scrolly.min.js"></script>
+    <script src="assets/js/jquery.scrollex.min.js"></script>
+    <script src="assets/js/browser.min.js"></script>
+    <script src="assets/js/breakpoints.min.js"></script>
+    <script src="assets/js/util.js"></script>
+    <script src="assets/js/main.js"></script>
+
+  </body>
 
 </html>
