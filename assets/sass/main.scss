@@ -620,7 +620,8 @@
 		text-align: center;
 		border-radius: 0.5em;
 		text-decoration: none;
-		padding: 0.65em 3em 0.65em 3em;
+		padding: 0.1em 0.5em 0.1em 0.5em;
+		font-size: 11px;
 		border: 0;
 		cursor: pointer;
 		outline: 0;
@@ -1398,7 +1399,9 @@
 			input[type="reset"],
 			button,
 			.button {
-				display: block;
+				/* display: block; */
+				display: inline-block;
+				text-align: center;
 				padding: 0;
 				line-height: 3em;
 				width: 100%;
